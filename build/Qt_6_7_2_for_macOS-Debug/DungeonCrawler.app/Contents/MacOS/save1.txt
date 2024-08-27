@@ -1,0 +1,46 @@
+10
+10
+0
+0
+10 10
+###########O...#.&.##...<#.X.##..__#..3##11__#...##..S.#...########\###O..2....##...?....###########
+6 7 1
+EndDoors
+3 3 8 1 1 0
+Controller Guardian 
+1 4 1 2 2 0
+Controller Stationary
+1 4 2 2 2 0
+Controller Stationary
+X 7 6 5 5 1
+2 7 4 1 1 0
+Controller Guardian 
+EndCharacters
+10 10
+###########O.......##......####......#&##S...###X##....#...#######\####O......1##...2...?###########
+6 6 1
+EndDoors
+1 7 8 2 2 0
+Controller Stationary
+2 8 4 1 1 0
+Controller Guardian 
+X 7 6 5 5 1
+EndCharacters
+10 10
+###########O..2#..W##...<#...##..__#..2##11__#..2##..S.#...#######-####O...4...##...?....###########
+6 6 0
+EndDoors
+2 3 8 1 1 0
+Controller Guardian 
+1 4 1 2 2 0
+Controller Stationary
+1 4 2 2 2 0
+Controller Stationary
+2 4 8 1 1 0
+Controller Guardian 
+2 1 4 1 1 0
+Controller Guardian 
+4 7 5 4 4 0
+Controller Attack
+EndCharacters
+EndLevel
